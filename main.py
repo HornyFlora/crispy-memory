@@ -1,5 +1,5 @@
 from config import app as application
-from views import *
+from app import *
 
 
 if __name__ == '__main__':
